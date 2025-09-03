@@ -1,0 +1,48 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Miguel Sousa Duarte'
+theme = 'ananke'
+
+
+[params]
+subtitle = "Research, notes, and projects"
+description = "Personal site of Miguel Duarte"
+# Optional UI tweaks
+background_color_class = "bg-near-white"   # Tachyons color class
+text_color = "mid-gray"                    # Tachyons color class
+show_reading_time = true
+date_format = "2 January 2006"
+custom_css = ["custom.css"]
+featured_image_class = "cover bg-center"   # options: cover|contain + bg-top|bg-center|bg-bottom
+cover_dimming_class  = "bg-black-30"   
+
+# Optional: use a logo instead of text in header (put the file in static/)
+# site_logo = "img/logo.svg"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "CV"
+  url  = "/cv/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Research"
+  url = "/about/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Teaching"
+  url = "/post/"
+  weight = 4
+

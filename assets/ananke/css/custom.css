@@ -1,0 +1,20 @@
+body {
+    background-color: #123524 !important; /* phthalo green */
+    color: #f8f8f8; /* light text for contrast */
+  }
+
+header, footer, main, article, section, nav {
+    background-color: #123524 !important;
+    color: #f8f8f8 !important;
+  }
+
+/* Make the site title text light for contrast against phthalo green */
+a.site-title,
+a.site-title:visited {
+  color: #f8f8f8 !important;   /* light text */
+}
+
+/* Optional: hover effect for title */
+a.site-title:hover {
+  color: #b2ffcc !important;   /* light mint green hover */
+}
