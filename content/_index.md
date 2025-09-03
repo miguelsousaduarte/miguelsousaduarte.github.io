@@ -6,3 +6,8 @@ omit_header_text: false              # set to true to hide the big title over th
 
 # Hello! 👋
 I’m Miguel. This site is under construction.
+
+## News
+- **Upcoming talk** — Oct 9, Caisse des Dêpots
+- **Research update** — Handbook Chapter *Life Expectancy, Retirement Age and Pension Wealth* (forthcoming)
+- **Site launched** — Sep 2025
