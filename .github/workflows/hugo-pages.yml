@@ -40,6 +40,13 @@ jobs:
         with:
           path: ./public
 
+      - name: Inspect build output
+        run: |
+          ls -l public | sed -n '1,200p'
+          echo "---- index.html head ----"
+          head -n 40 public/index.html || true
+    
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
