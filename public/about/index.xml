@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Miguel Sousa Duarte</title><link>https://github.com/miguelsousaduarte/miguelsousaduarte.github.io/about/</link><description>Recent content in About on Miguel Sousa Duarte</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://github.com/miguelsousaduarte/miguelsousaduarte.github.io/about/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Miguel Sousa Duarte</title>
+    <link>http://localhost:54043/about/</link>
+    <description>Recent content in About on Miguel Sousa Duarte</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:54043/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
