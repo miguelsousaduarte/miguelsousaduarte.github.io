@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <article class="cf ph4 ph6-l pv3 pv4-l f4 tl center lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+    {{ .Content }}
+    {{ range .Paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </article>
+{{ end }}

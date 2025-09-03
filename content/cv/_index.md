@@ -1,9 +1,6 @@
 ---
 title: "CV"
-# optional hero image if you want a banner:
-# featured_image: "/images/hero.jpg"
-# set to false if you don't want the big header text on top of the hero
-# omit_header_text: false
+featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at static/images/hero.jpg
 ---
 
 <!-- Download button -->
@@ -18,34 +15,23 @@ title: "CV"
 <!--leave  a gap before the embed -->
 <p style="margin-bottom: 1rem;"></p>
 
-<!-- <object data="/cv/Miguel-Sousa-Duarte-CV.pdf" type="application/pdf" width="100%" height="900">
-  <p>Your browser cannot display PDFs.
-     <a href="/cv/Miguel-Sousa-Duarte-CV.pdf" target="_blank" rel="noopener">Open the CV</a>.
-  </p>
-</object> -->
-
-<!-- [Download other CV (PDF)](/cv/Miguel-Sousa-Duarte-CV.pdf) -->
-
-
 
 ### Education
-- **MSc, [Your Program]**, Copenhagen Business School — 2024–2026  
-- **BSc, [Your Program]**, [University] — 2020–2023
+- **PhD, Economics**, Copenhagen Business School — 2024-
+- **MSc, Advanced Economics and Finance**, Copenhagen Business School — 2022–2024
+- **BSc, Economics**, Nova School of Business and Economics — 2019–2022
 
-### Experience
+<!-- ### Experience
 - **[Role]**, [Org] — 2024–present  
   - One-line impact statement (numbers are great).
 - **[Role]**, [Org] — 2022–2023  
-  - Another concise bullet.
+  - Another concise bullet. -->
 
-### Research & Publications
-- Duarte, M. (2025). *Paper title*. Journal/Working paper link.
+### Publications
+- Hougaard Jensen, S.E., Sveinsson, T.S. & **Sousa Duarte, M.** Working less for longer: unintended effects of longevity adjustment of retirement age. Int Tax Public Finance 32, 1076–1105 (2025). https://doi.org/10.1007/s10797-024-09862-9
 
 ### Skills
-- Econometrics (Stata, R), Python (pandas, matplotlib), LaTeX, Git
-
-### Selected Projects
-- **Life expectancy & pensions dashboard** — short description + link.
+- Stata, R, Python, LaTeX, Git
 
 ### Contact
 - Email: msd.eco@cbs.dk

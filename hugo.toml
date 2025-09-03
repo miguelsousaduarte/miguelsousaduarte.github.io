@@ -38,11 +38,11 @@ cover_dimming_class  = "bg-black-30"
 
   [[menu.main]]
   name = "Research"
-  url = "/about/"
+  url = "/research/"
   weight = 3
 
   [[menu.main]]
   name = "Teaching"
-  url = "/post/"
+  url = "/teaching/"
   weight = 4
 

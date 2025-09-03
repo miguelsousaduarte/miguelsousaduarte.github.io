@@ -18,3 +18,14 @@ a.site-title:visited {
 a.site-title:hover {
   color: #b2ffcc !important;   /* light mint green hover */
 }
+
+.page-teaching h3 {
+  margin-bottom: 0.25rem; /* closer to the line below */
+  margin-top: 1.25rem;    /* keep a bigger gap above each new course */
+}
+
+img[alt="Miguel Sousa Duarte"] {
+  max-width: 400px;   /* pick the exact size you want */
+  width: 100%;        /* responsive: scales down on small screens */
+  height: auto;
+}
