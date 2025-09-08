@@ -26,8 +26,8 @@ I am a PhD Fellow in Economics at Copenhagen Business School. My research focuse
 
 
 ## Pension Research Centre
-- [**Pension Poducts and Choice Architecture**](https://www.tilmeld.dk/ppca2025/conference)  — October 6
-- [**PeRCent Annual Conference**](https://www.tilmeld.dk/percentannualconference2025/conference)  — November 26
+- [**Pension Poducts and Choice Architecture**](https://www.tilmeld.dk/ppca2025/conference)  — October 6, 2025
+- [**PeRCent Annual Conference**](https://www.tilmeld.dk/percentannualconference2025/conference)  — November 26, 2025
 
   </div>
 
