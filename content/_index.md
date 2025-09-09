@@ -1,6 +1,6 @@
 ---
 title: "Miguel Sousa Duarte"
-featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at static/images/hero.jpg
+featured_image: "/images/solbjerg_plads_garden.jpeg"   # optional: put a file at static/images/hero.jpg
 omit_header_text: false              # set to true to hide the big title over the hero
 ---
 
@@ -26,7 +26,7 @@ I am a PhD Fellow in Economics at Copenhagen Business School. My research focuse
 
 
 ## Pension Research Centre
-- [**Pension Poducts and Choice Architecture**](https://www.tilmeld.dk/ppca2025/conference)  — October 6, 2025
+- [**Pension Products and Choice Architecture**](https://www.tilmeld.dk/ppca2025/conference)  — October 6, 2025
 - [**PeRCent Annual Conference**](https://www.tilmeld.dk/percentannualconference2025/conference)  — November 26, 2025
 
   </div>

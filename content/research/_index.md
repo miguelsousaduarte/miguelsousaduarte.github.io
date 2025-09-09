@@ -20,14 +20,15 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 
 ## Working Papers
 
-- Life Expectancy, Retirement Age and Pension Wealth (handbook chapter)
+- Raising the Bar: Pension Age Reforms, Labor Supply, Welfare Dependence, and Taxes  
+  Joint with: *Svend E. Hougaard Jensen, Tim D. Maurer, Frederik B. Christensen & Thorsteinn S. Sveinsson*
 
+- Life Expectancy, Retirement Age and Pension Wealth (handbook chapter)  
   Joint with: *Svend E. Hougaard Jensen & Tim D. Maurer*
 
 ## Work in Progress
 
-- Higher Education Access Disparities in Portugal
-
+- Higher Education Access Disparities in Portugal  
   Joint with: *Vicente Conde Mendes* 
 
 </div>

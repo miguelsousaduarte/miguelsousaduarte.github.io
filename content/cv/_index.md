@@ -5,7 +5,7 @@ featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at stati
 
 <!-- Download button -->
 <p>
-  <a class="download-btn f6 link dim br2 ph3 pv2 mb3 dib white bg-near-white"
+  <a class="download-btn f6 link dim br2 ph3 pv2 mb3 dib white bg-dark-blue"
      href="/cv/Miguel-Sousa-Duarte-CV.pdf"
      target="_blank" rel="noopener">
     Download CV (PDF)

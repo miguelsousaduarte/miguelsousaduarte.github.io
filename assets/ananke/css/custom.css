@@ -29,3 +29,15 @@ img[alt="Miguel Sousa Duarte"] {
   width: 100%;        /* responsive: scales down on small screens */
   height: auto;
 }
+
+/* Style only links inside main content area */
+main a {
+  color: white !important;
+  font-weight: bold;
+}
+
+main a:hover {
+  color: #ddd !important;   /* light gray on hover */
+  text-decoration: underline;
+}
+

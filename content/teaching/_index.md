@@ -10,7 +10,7 @@ Copenhagen Business School, BSc in Digital Management
 
 <br>
 
-### Microeconomics, 2023  
+### Microeconomics, 2023
 Copenhagen Business School, BSc Business, Language and Culture  
 
 <br>
