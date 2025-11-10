@@ -23,6 +23,16 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 - Raising the Bar: Pension Age Reforms, Labor Supply, Welfare Dependence, and Taxes  
   Joint with: *Svend E. Hougaard Jensen, Tim D. Maurer, Frederik B. Christensen & Thorsteinn S. Sveinsson*
 
+-<p>
+  <a class="f6 link dim dark-blue"
+     href="/handbook/HandbookChapter_Distribute.pdf"
+     target="_blank" rel="noopener">
+    Life Expectancy, Retirement Age and Pension Wealth
+  </a>
+  (handbook chapter)<br>
+  Joint with: <em>Svend E. Hougaard Jensen & Tim D. Maurer</em>
+</p>
+
 - Life Expectancy, Retirement Age and Pension Wealth (handbook chapter)  
   Joint with: *Svend E. Hougaard Jensen & Tim D. Maurer*
 
