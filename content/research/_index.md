@@ -20,10 +20,38 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 
 ## Working Papers
 
-- Raising the Bar: Pension Age Reforms, Labor Supply, Welfare Dependence, and Taxes  
-  Joint with: *Svend E. Hougaard Jensen, Tim D. Maurer, Frederik B. Christensen & Thorsteinn S. Sveinsson*
+- Raising the Bar: Pension Age Reforms, Labor Supply, Welfare Dependence, and Taxes   
+  Joint with: <em>
+    <a class="light-gray link dim underline-hover"
+       href="https://www.shj-econ.eu"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Svend E. Hougaard Jensen
+    </a>,
+    <a class="light-gray link dim underline-hover"
+       href="https://www.timdominikmaurer.com"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Tim D. Maurer
+    </a>,
+    Frederik B. Christensen & Thorsteinn S. Sveinsson
+  </em>
 
--<p>
+
+<ul class="lh-copy">
+  <li>
+    <a class="b link underline dim light-gray"
+       href="/handbook/HandbookChapter_Distribute.pdf"
+       target="_blank" rel="noopener">
+      Life Expectancy, Retirement Age and Pension Wealth
+    </a> &nbsp; (Handbook Chapter)<br>
+    Joint with: <em>Svend E. Hougaard Jensen & Tim D. Maurer</em>
+  </li>
+</ul>
+
+
+
+<!-- -<p>
   <a class="f6 link dim dark-blue"
      href="/handbook/HandbookChapter_Distribute.pdf"
      target="_blank" rel="noopener">
@@ -31,14 +59,14 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
   </a>
   (handbook chapter)<br>
   Joint with: <em>Svend E. Hougaard Jensen & Tim D. Maurer</em>
-</p>
+</p> -->
 
-- Life Expectancy, Retirement Age and Pension Wealth (handbook chapter)  
-  Joint with: *Svend E. Hougaard Jensen & Tim D. Maurer*
+<!-- - Life Expectancy, Retirement Age and Pension Wealth (handbook chapter)  
+  Joint with: *Svend E. Hougaard Jensen & Tim D. Maurer* -->
 
 ## Work in Progress
 
-- Higher Education Access Disparities in Portugal  
+- Higher Education Access Disparities  
   Joint with: *Vicente Conde Mendes* 
 
 </div>
