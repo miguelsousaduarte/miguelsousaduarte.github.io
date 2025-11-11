@@ -27,7 +27,7 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
        target="_blank" rel="noopener"
        style="font-weight: normal; text-decoration: none;">
       Svend E. Hougaard Jensen
-    </a>,
+    ,
     <a class="light-gray link dim underline-hover"
        href="https://www.timdominikmaurer.com"
        target="_blank" rel="noopener"
@@ -35,7 +35,6 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
       Tim D. Maurer
     </a>,
     Frederik B. Christensen & Thorsteinn S. Sveinsson
-  </em>
 
 
 <ul class="lh-copy">
@@ -45,7 +44,20 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
        target="_blank" rel="noopener">
       Life Expectancy, Retirement Age and Pension Wealth
     </a> &nbsp; (Handbook Chapter)<br>
-    Joint with: <em>Svend E. Hougaard Jensen & Tim D. Maurer</em>
+      Joint with: <em>
+    <a class="light-gray link dim underline-hover"
+       href="https://www.shj-econ.eu"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Svend E. Hougaard Jensen
+    </a>,
+    <a class="light-gray link dim underline-hover"
+       href="https://www.timdominikmaurer.com"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Tim D. Maurer
+    </a>
+  </em>
   </li>
 </ul>
 
@@ -67,6 +79,17 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 ## Work in Progress
 
 - Higher Education Access Disparities  
-  Joint with: *Vicente Conde Mendes* 
+  Joint with: <em>
+    <a class="light-gray link dim underline-hover"
+       href="https://www.linkedin.com/in/vicentecondemendes/"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Vicente Conde Mendes
+    </a>
+    </em>
+
+
+
+  
 
 </div>
