@@ -13,28 +13,61 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 - [**Working Less for Longer: Unintended Effects of Longevity Adjustment of Retirement Age**](https://link.springer.com/article/10.1007/s10797-024-09862-9) 
 
   *International Tax and Public Finance, Volume 32, pages 1076–1105, (2025).* 
-  Joint with: *Svend E. Hougaard Jensen & Thorsteinn Sigurdur Sveinsson*
+  Joint with: <em>
+    <a class="light-gray link dim underline-hover"
+        href="https://www.shj-econ.eu"
+        target="_blank" rel="noopener"
+        style="font-weight: normal; text-decoration: none;">
+        Svend E. Hougaard Jensen
+    </a>& 
+    <a class="light-gray link dim underline-hover"
+       href="https://www.linkedin.com/in/thorsteinn-sveinsson-06508260"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Thorsteinn S. Sveinsson
+    </a>
+    </em>
+
+
+    
 
   
   Abstract: Using a macro model with overlapping generations, this paper shows that increasing the retirement age may unintentionally reduce average hours worked (intensive margin), particularly depending on pension system design: the effect is stronger under pay-as-you-go systems with fixed benefits than under those with fixed contributions or voluntary savings.
 
 ## Working Papers
 
-- Raising the Bar: Pension Age Reforms, Labor Supply, Welfare Dependence, and Taxes   
+- <a class="b link underline dim light-gray"
+     href="https://drive.google.com/file/d/1so9M11V3njy-QA2XZXvXTzg70hhJYyem/view"
+     target="_blank" rel="noopener">
+    Raising the Bar: Pension Age Reforms, Labor Supply, Welfare Dependence, and Taxes
+  </a>
+  <br>
   Joint with: <em>
     <a class="light-gray link dim underline-hover"
        href="https://www.shj-econ.eu"
        target="_blank" rel="noopener"
        style="font-weight: normal; text-decoration: none;">
       Svend E. Hougaard Jensen
-    ,
+    </a>,
     <a class="light-gray link dim underline-hover"
        href="https://www.timdominikmaurer.com"
        target="_blank" rel="noopener"
        style="font-weight: normal; text-decoration: none;">
       Tim D. Maurer
     </a>,
-    Frederik B. Christensen & Thorsteinn S. Sveinsson
+    <a class="light-gray link dim underline-hover"
+       href="https://www.linkedin.com/in/frederik-bjørn-christensen-900b0112b"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Frederik B. Christensen
+    </a>&
+    <a class="light-gray link dim underline-hover"
+       href="https://www.linkedin.com/in/thorsteinn-sveinsson-06508260"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Thorsteinn S. Sveinsson
+    </a>
+    </em>
 
 
 <ul class="lh-copy">
@@ -50,7 +83,7 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
        target="_blank" rel="noopener"
        style="font-weight: normal; text-decoration: none;">
       Svend E. Hougaard Jensen
-    </a>,
+    </a>&
     <a class="light-gray link dim underline-hover"
        href="https://www.timdominikmaurer.com"
        target="_blank" rel="noopener"
