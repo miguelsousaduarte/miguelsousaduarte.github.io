@@ -21,12 +21,6 @@ featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at stati
 - **MSc, Advanced Economics and Finance**, Copenhagen Business School — 2022–2024
 - **BSc, Economics**, Nova School of Business and Economics — 2019–2022
 
-<!-- ### Experience
-- **[Role]**, [Org] — 2024–present  
-  - One-line impact statement (numbers are great).
-- **[Role]**, [Org] — 2022–2023  
-  - Another concise bullet. -->
-
 ### Publications
 - Hougaard Jensen, S.E., Sveinsson, T.S. & **Sousa Duarte, M.** Working less for longer: unintended effects of longevity adjustment of retirement age. Int Tax Public Finance 32, 1076–1105 (2025). https://doi.org/10.1007/s10797-024-09862-9
 
