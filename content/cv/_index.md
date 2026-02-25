@@ -30,4 +30,4 @@ featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at stati
 ### Contact
 - Email: msd.eco@cbs.dk
 - LinkedIn: [@miguelsousaduarte](https://linkedin.com/in/miguelsousaduarte)
-- GitHub:[@miguelsousaduarte](https://github.com/miguelsousaduarte)
+- GitHub: [@miguelsousaduarte](https://github.com/miguelsousaduarte)
