@@ -12,7 +12,7 @@ omit_header_text: false              # set to true to hide the big title over th
 
 # Hej! 👋 
 
-I am a PhD Fellow in Economics at Copenhagen Business School. My research focuses on topics such as labour economics, pension economics, financial sustainability and education. I am affiliated with the <a href="https://www.cbs.dk/en/research/departments-and-centres/department-of-finance/pension-research-centre-percent" target="_blank" rel="noopener noreferrer">Pension Research Centre</a> (PeRCent). Check our events below!
+I am a PhD Fellow in Economics at <a href="https://www.cbs.dk/en/research/departments/department-economics/miguel-sousa-duarte" target="_blank" rel="noopener noreferrer">Copenhagen Business School</a> . My research focuses on topics such as labour economics, pension economics, financial sustainability and education. I am affiliated with the <a href="https://www.cbs.dk/en/research/departments/department-finance/pension-research-centre" target="_blank" rel="noopener noreferrer">Pension Research Centre</a> (PeRCent). Check our events below!
 
 [Download my CV](/cv/cv_feb_26'.pdf)
 
@@ -36,3 +36,4 @@ I am a PhD Fellow in Economics at Copenhagen Business School. My research focuse
     <img src="/images/miguel_front_page.jpg" alt="Miguel Sousa Duarte" class="br3 shadow-5 center">
   </div>
 </div>
+
