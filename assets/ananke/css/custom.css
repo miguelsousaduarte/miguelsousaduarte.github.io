@@ -41,3 +41,10 @@ main a:hover {
   text-decoration: underline;
 }
 
+.paper summary {
+  list-style: none;
+}
+
+.paper summary::-webkit-details-marker {
+  display: none;
+}

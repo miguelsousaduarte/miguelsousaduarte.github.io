@@ -10,7 +10,6 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 
 ## Publications
 
-
 - [**Life Expectancy, Retirement Age and Pension Wealth**](https://link.springer.com/rwe/10.1007/978-3-319-57365-6_475-1) 
 
   *Handbook of Labor, Human Resources and Population Economics, (2026).*
@@ -30,13 +29,13 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
     </em>
 
 <details class="paper" style="margin-top: 0.5rem;">
-  <summary class="btn" style="display: inline-block; cursor: pointer;">
+  <summary class="btn ba br2 ph2 pv1 dib pointer">
     Abstract
   </summary>
 
   <div class="abstract" style="margin-top: 10px;">
     <p>
-      Abstract: Population aging has led several countries to adopt policies that link the retirement age to life expectancy. Although such policies may be necessary to keep public finances sustainable, they risk increasing socioeconomic inequalities. Individuals with lower socioeconomic status tend to live shorter lives, collect benefits for fewer years, and may therefore be disproportionately burdened by increases in the retirement age, potentially undermining the intended progressivity of pension systems. An additional challenge is that the growing accumulation of private pension wealth may reduce the effectiveness of public pension reforms, as wealthier individuals can afford to retire early regardless of changes to the statutory retirement age. This chapter examines these dynamics and presents a range of policy options to best align pension design with demographic, socioeconomic, and fiscal realities.
+      Population aging has led several countries to adopt policies that link the retirement age to life expectancy. Although such policies may be necessary to keep public finances sustainable, they risk increasing socioeconomic inequalities. Individuals with lower socioeconomic status tend to live shorter lives, collect benefits for fewer years, and may therefore be disproportionately burdened by increases in the retirement age, potentially undermining the intended progressivity of pension systems. An additional challenge is that the growing accumulation of private pension wealth may reduce the effectiveness of public pension reforms, as wealthier individuals can afford to retire early regardless of changes to the statutory retirement age. This chapter examines these dynamics and presents a range of policy options to best align pension design with demographic, socioeconomic, and fiscal realities.
     </p>
   </div>
 </details>
@@ -63,13 +62,13 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
     </em>
 
 <details class="paper" style="margin-top: 0.5rem;">
-  <summary class="btn" style="display: inline-block; cursor: pointer;">
+  <summary class="btn ba br2 ph2 pv1 dib pointer">
     Abstract
   </summary>
 
   <div class="abstract" style="margin-top: 10px;">
     <p>
-      Abstract: Using a macro model with overlapping generations, this paper shows that increasing the retirement age may unintentionally reduce average hours worked (intensive margin), particularly depending on pension system design: the effect is stronger under pay-as-you-go systems with fixed benefits than under those with fixed contributions or voluntary savings.
+      Using a macro model with overlapping generations, this paper shows that increasing the retirement age may unintentionally reduce average hours worked (intensive margin), particularly depending on pension system design: the effect is stronger under pay-as-you-go systems with fixed benefits than under those with fixed contributions or voluntary savings.
     </p>
   </div>
 </details>
@@ -141,7 +140,5 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
     </em>
 
 
-
-  
 
 </div>

@@ -18,16 +18,15 @@ I am a PhD Fellow in Economics at <a href="https://www.cbs.dk/en/research/depart
 
 
 ## News
-- **Recent talk** — [PRICE Research Workshop 2025: Consumption and Saving over the Life Cycle](https://www.tilmeld.dk/cslc2025/program) - August 29, 2025
-- **Recent talk** — [Caisse des Dêpots Workshop on pensions and ageing](https://politiques-sociales.caissedesdepots.fr/sites/default/files/Appel_communications_ColloqueRV_GB_02-2025.pdf) - October 9, 2025
-- **Research update** — *Life Expectancy, Retirement Age and Pension Wealth* (accepted Handbook Chapter)
-
+- **Upcoming Research Visit (2026–2027):** Yale University
+- **Handbook Chapter:** [Life Expectancy, Retirement Age and Pension Wealth](https://link.springer.com/rwe/10.1007/978-3-319-57365-6_475-1)
 
 
 
 ## Pension Research Centre
-- [**Pension Products and Choice Architecture**](https://www.tilmeld.dk/ppca2025/conference)  — October 6, 2025
-- [**PeRCent Annual Conference**](https://www.tilmeld.dk/percentannualconference2025/conference)  — November 26, 2025
+- [Pub­lic lec­ture with Pro­fess­or Laurence J. Kot­likoff](https://www.cbs.dk/en/events/percent-lecture-laurence-j-kotlikoff-boston-university)  — May 12, 2026
+- [Climate Risks and Expected Returns](https://www.cbs.dk/en/events/climate-risks-and-expected-returns)  — August 24, 2026
+- [PeRCent Annual Conference](https://www.tilmeld.dk/percentannualconference2025/conference)  — November 2026 (TBA)
 
   </div>
 
