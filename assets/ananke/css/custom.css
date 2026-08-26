@@ -8,6 +8,13 @@ header, footer, main, article, section, nav {
     color: #f8f8f8 !important;
   }
 
+.site-nav-bar {
+  border-bottom: 1px solid rgba(248, 248, 248, 0.18);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.22);
+  position: relative;
+  z-index: 1;
+}
+
 /* Make the site title text light for contrast against phthalo green */
 a.site-title,
 a.site-title:visited {
@@ -33,7 +40,7 @@ img[alt="Miguel Sousa Duarte"] {
 /* Style only links inside main content area */
 main a {
   color: white !important;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 main a:hover {
@@ -42,6 +49,7 @@ main a:hover {
 }
 
 .paper summary {
+  margin-left: 3.5rem;
   list-style: none;
 }
 

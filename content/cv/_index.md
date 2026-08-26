@@ -26,7 +26,7 @@ featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at stati
 - **Sousa Duarte, M.**, Hougaard Jensen, S.E., Maurer, T.D. (2026). Life Expectancy, Retirement Age, and Pension Wealth. In: Zimmermann, K.F. (eds) Handbook of Labor, Human Resources and Population Economics. Springer, Cham. https://doi.org/10.1007/978-3-319-57365-6_475-1
 
 ### Skills
-- Stata, R, Python, LaTeX, Git
+- Stata, R, Python, Mathematica
 
 ### Contact
 - Email: msd.eco@cbs.dk

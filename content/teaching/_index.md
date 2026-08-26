@@ -5,17 +5,22 @@ featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at stati
 <div class="tl">
 <!-- Markdown content -->
 
-### Economics in the Digital Age, 2023, 2024  
+### Introductory Microeconomics, 2026
+Yale University
+
+<br>
+
+### Economics in the Digital Age, 2023, 2024
 Copenhagen Business School, BSc in Digital Management  
 
 <br>
 
-### Microeconomics, 2023  
+### Microeconomics, 2023
 Copenhagen Business School, BSc Business, Language and Culture  
 
 <br>
 
-### Microeconomics, 2022  
+### Microeconomics, 2022
 Copenhagen Business School, BSc International Business  
 
 </div>

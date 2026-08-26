@@ -3,10 +3,42 @@ title: "Research"
 featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at static/images/hero.jpg
 # aliases: ["/about/"]   # sends /about/ to /research/
 ---
-<div class="tl">
+<div class="tl"  style="text-align: justify;">
 <!-- Markdown content -->
 
 My research specializes in Pension Economics, focusing on demographic ageing, labour supply and savings behaviour. I use Danish registry data to study retirement and wealth decisions in the face of policy reforms.
+
+## Working Papers
+
+- <a class="b link underline dim light-gray"
+     href="/workingpapers/Manuscript_PensionReformEffects.pdf"
+     target="_blank" rel="noopener">
+    The Wider Effects of Higher Pension Ages: Evidence on Labor Supply, Welfare Spillovers, and Savings
+  </a>
+  <br>
+  Joint with: <em>
+    <a class="light-gray link dim underline-hover"
+       href="https://www.shj-econ.eu"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Svend E. Hougaard Jensen
+    </a>,
+    <a class="light-gray link dim underline-hover"
+       href="https://www.timdominikmaurer.com"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Tim D. Maurer
+    </a>&
+    <a class="light-gray link dim underline-hover"
+       href="https://www.linkedin.com/in/frederik-bjørn-christensen-900b0112b"
+       target="_blank" rel="noopener"
+       style="font-weight: normal; text-decoration: none;">
+      Frederik B. Christensen
+    </a>
+    </em>
+
+
+
 
 ## Publications
 
@@ -75,42 +107,6 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
     
 
   
-## Working Papers
-
-- <a class="b link underline dim light-gray"
-     href="https://drive.google.com/file/d/1so9M11V3njy-QA2XZXvXTzg70hhJYyem/view"
-     target="_blank" rel="noopener">
-    Raising the Bar: Pension Age Reforms, Labor Supply, Welfare Dependence, and Taxes
-  </a>
-  <br>
-  Joint with: <em>
-    <a class="light-gray link dim underline-hover"
-       href="https://www.shj-econ.eu"
-       target="_blank" rel="noopener"
-       style="font-weight: normal; text-decoration: none;">
-      Svend E. Hougaard Jensen
-    </a>,
-    <a class="light-gray link dim underline-hover"
-       href="https://www.timdominikmaurer.com"
-       target="_blank" rel="noopener"
-       style="font-weight: normal; text-decoration: none;">
-      Tim D. Maurer
-    </a>,
-    <a class="light-gray link dim underline-hover"
-       href="https://www.linkedin.com/in/frederik-bjørn-christensen-900b0112b"
-       target="_blank" rel="noopener"
-       style="font-weight: normal; text-decoration: none;">
-      Frederik B. Christensen
-    </a>&
-    <a class="light-gray link dim underline-hover"
-       href="https://www.linkedin.com/in/thorsteinn-sveinsson-06508260"
-       target="_blank" rel="noopener"
-       style="font-weight: normal; text-decoration: none;">
-      Thorsteinn S. Sveinsson
-    </a>
-    </em>
-
-
 
 ## Work in Progress
 
