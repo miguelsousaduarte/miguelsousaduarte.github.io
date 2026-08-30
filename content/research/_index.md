@@ -4,11 +4,11 @@ featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at stati
 # aliases: ["/about/"]   # sends /about/ to /research/
 ---
 <div class="tl"  style="text-align: justify;">
-My research specializes in pension economics, public economics, labour economics, macroeconomics and education.
+My research specializes in pension economics. I use Danish registry data to study retirement and saving decisions in the face of policy reforms.
 
 <div style="margin-top: -1.2rem;">
 
-I use Danish registry data to study retirement and saving decisions in the face of policy reforms.
+
 
 ### Working Papers
 
