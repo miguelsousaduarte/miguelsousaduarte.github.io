@@ -12,7 +12,7 @@ omit_header_text: true              # set to true to hide the big title over the
 
 <!-- # Hej! 👋  -->
 
-I am a PhD Fellow in Economics at <a href="https://www.cbs.dk/en/research/departments/department-economics/miguel-sousa-duarte" target="_blank" rel="noopener noreferrer">Copenhagen Business School</a>. My research focuses on labour economics, pension economics, fiscal sustainability and education. I am affiliated with the <a href="https://www.cbs.dk/en/research/departments/department-finance/pension-research-centre" target="_blank" rel="noopener noreferrer">Pension Research Centre</a>. Check our events below!
+I am a PhD Fellow in Economics at <a href="https://www.cbs.dk/en/research/departments/department-economics/miguel-sousa-duarte" target="_blank" rel="noopener noreferrer">Copenhagen Business School</a>. My research focuses on pension economics, public economics, labour economics, macroeconomics and education. I am affiliated with the <a href="https://www.cbs.dk/en/research/departments/department-finance/pension-research-centre" target="_blank" rel="noopener noreferrer">Pension Research Centre</a>. Check our events below!
 
 I am visiting <a href="https://macmillan.yale.edu/person/miguel-sousa-duarte" target="_blank" rel="noopener noreferrer">Yale University</a> for the 2026-2027 academic year.
 
@@ -37,4 +37,3 @@ I am visiting <a href="https://macmillan.yale.edu/person/miguel-sousa-duarte" ta
     <img src="/images/miguel_front_page_nobackground.png" alt="Miguel Sousa Duarte" class="br3 center">
   </div>
 </div>
-

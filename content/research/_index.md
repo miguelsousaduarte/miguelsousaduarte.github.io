@@ -4,18 +4,22 @@ featured_image: "/images/solbjerg_plads_4.jpg"   # optional: put a file at stati
 # aliases: ["/about/"]   # sends /about/ to /research/
 ---
 <div class="tl"  style="text-align: justify;">
-<!-- Markdown content -->
+My research specializes in pension economics, public economics, labour economics, macroeconomics and education.
 
-My research specializes in Pension Economics, focusing on demographic ageing, labour supply and savings behaviour. I use Danish registry data to study retirement and wealth decisions in the face of policy reforms.
+<div style="margin-top: -1.2rem;">
 
-## Working Papers
+I use Danish registry data to study retirement and saving decisions in the face of policy reforms.
+
+### Working Papers
 
 - <a class="b link underline dim light-gray"
      href="/workingpapers/Manuscript_PensionReformEffects.pdf"
      target="_blank" rel="noopener">
     The Wider Effects of Higher Pension Ages: Evidence on Labor Supply, Welfare Spillovers, and Savings
   </a>
-  <br>
+
+  <div style="margin-top: -1.2rem;">
+
   Joint with: <em>
     <a class="light-gray link dim underline-hover"
        href="https://www.shj-econ.eu"
@@ -40,9 +44,11 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 
 
 
-## Publications
+### Publications
 
 - [**Life Expectancy, Retirement Age and Pension Wealth**](https://link.springer.com/rwe/10.1007/978-3-319-57365-6_475-1) 
+
+  <div style="margin-top: -1.2rem;">
 
   *Handbook of Labor, Human Resources and Population Economics, (2026).*
   Joint with: <em>
@@ -73,9 +79,9 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 </details>
 
 
-  
-
 - [**Working Less for Longer: Unintended Effects of Longevity Adjustment of Retirement Age**](https://link.springer.com/article/10.1007/s10797-024-09862-9) 
+
+  <div style="margin-top: -1.2rem;">
 
   *International Tax and Public Finance, Volume 32, pages 1076–1105, (2025).* 
   Joint with: <em>
@@ -108,7 +114,7 @@ My research specializes in Pension Economics, focusing on demographic ageing, la
 
   
 
-## Work in Progress
+### Work in Progress
 
 - Do Means-Tested Pensions Undermine the Effectiveness of Retirement Age Increases?  
   Joint with: <em>
