@@ -113,6 +113,8 @@ My research specializes in pension economics. I use Danish registry data to stud
 
 ### Work in Progress
 
+- Designing Pension Transitions: Welfare, Cohort Incidence, and Macroeconomic Effects
+
 - Do Means-Tested Pensions Undermine the Effectiveness of Retirement Age Increases?  
   Joint with: <em>
     <a class="light-gray link dim underline-hover"
