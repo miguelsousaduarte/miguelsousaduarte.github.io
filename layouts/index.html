@@ -1,5 +1,122 @@
+{{ define "head" }}
+  {{ partials.Include "head-additions.html" . }}
+  {{ with resources.Get "css/home.css" | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}
+
+{{ define "header" }}
+  <header class="home-header">
+    <nav class="home-container home-nav" aria-label="Main navigation">
+      <a class="home-brand" href="{{ .Site.Home.RelPermalink }}" aria-current="page">{{ .Site.Title }}</a>
+      <ul>
+        {{ range slice "research" "teaching" "cv" }}
+          {{ with site.GetPage . }}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </nav>
+  </header>
+{{ end }}
+
 {{ define "main" }}
-  <article class="cf ph4 ph6-l pv3 pv4-l f4 tl center lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-    {{ .Content }}
-  </article>
+  <div class="home-hero">
+    <div class="home-container home-hero-grid">
+      <div class="home-intro">
+        <p class="home-affiliation">{{ .Params.role }} · <a href="{{ .Params.affiliation_url }}">{{ .Params.affiliation }}</a></p>
+        <h1>{{ .Title }}</h1>
+        <p class="home-bio">{{ .Params.intro | markdownify }}</p>
+        <p class="home-visit">{{ .Params.visit | markdownify }}</p>
+        <div class="home-actions">
+          <a class="home-primary" href="#selected-research">Explore research <span aria-hidden="true">↓</span></a>
+          {{ with site.GetPage "cv" }}<a href="{{ .RelPermalink }}">CV</a>{{ end }}
+          <a href="mailto:{{ .Params.email }}">Email</a>
+        </div>
+      </div>
+      <div class="home-portrait">
+        <img src="{{ .Params.portrait | relURL }}" alt="{{ .Title }}" width="720" height="1080">
+      </div>
+    </div>
+  </div>
+
+  <section class="home-research" id="selected-research" aria-labelledby="home-research-title" tabindex="-1">
+    <div class="home-container">
+      <div class="home-section-heading">
+        <h2 id="home-research-title">Selected research</h2>
+        {{ with site.GetPage "research" }}
+          <a href="{{ .RelPermalink }}">All research <span aria-hidden="true">&rarr;</span></a>
+        {{ end }}
+      </div>
+      {{ range .Params.selected_research }}
+        <div class="home-paper">
+          <div class="home-paper-content">
+          <p class="home-paper-kind">{{ .kind }}</p>
+          <h3>{{ .title }}{{ with .subtitle }}<span class="home-paper-subtitle">{{ . }}</span>{{ end }}</h3>
+          <div class="home-paper-links">
+            <a href="{{ .url | relURL }}">{{ .link_label }}</a>
+            {{ with .ssrn_url }}<a href="{{ . }}">SSRN</a>{{ end }}
+          </div>
+          {{ with .abstract }}
+            <details class="home-abstract">
+              <summary>Abstract</summary>
+              <p>{{ . }}</p>
+            </details>
+          {{ end }}
+          </div>
+          {{ if .result_value }}
+            <aside class="home-paper-result">
+              <p class="home-result-value">{{ .result_value }}</p>
+              <p>{{ .result_description }}</p>
+            </aside>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="home-events" aria-labelledby="home-events-title">
+    <div class="home-container">
+      <div class="home-section-heading">
+        <h2 id="home-events-title">Pension Research Centre</h2>
+        <a href="https://www.cbs.dk/en/research/departments/department-finance/pension-research-centre">Website <span aria-hidden="true">&rarr;</span></a>
+      </div>
+      {{ .Content }}
+    </div>
+  </section>
+
+  <script>
+    const researchLink = document.querySelector('a[href="#selected-research"]');
+    const researchSection = document.getElementById('selected-research');
+    let scrollFrame;
+
+    researchLink.addEventListener('click', (event) => {
+      if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey ||
+          window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+      event.preventDefault();
+      cancelAnimationFrame(scrollFrame);
+      const start = window.scrollY;
+      const distance = researchSection.getBoundingClientRect().top;
+      const started = performance.now();
+      const duration = 800;
+      history.pushState(null, '', '#selected-research');
+
+      function scrollToResearch(now) {
+        const progress = Math.min((now - started) / duration, 1);
+        const eased = progress < 0.5 ? 2 * progress * progress : 1 - Math.pow(-2 * progress + 2, 2) / 2;
+        window.scrollTo(0, start + distance * eased);
+        if (progress < 1) {
+          scrollFrame = requestAnimationFrame(scrollToResearch);
+        } else {
+          researchSection.focus({ preventScroll: true });
+        }
+      }
+      scrollFrame = requestAnimationFrame(scrollToResearch);
+    });
+
+    for (const eventName of ['wheel', 'touchstart', 'keydown']) {
+      window.addEventListener(eventName, () => cancelAnimationFrame(scrollFrame), { passive: true });
+    }
+  </script>
 {{ end }}
